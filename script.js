@@ -39,10 +39,14 @@ function printmyname(text){
 printmyname("midoooo")
 let mynameis = (text) =>{
     console.log(text);
+    console.log();
+    
+
+
     
 }
 mynameis("zaain")
 const a=50;
 const b=100;
 console.log(a = b);
-
+console.groupCollapsed(a)
