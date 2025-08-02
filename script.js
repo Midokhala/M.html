@@ -29,11 +29,21 @@ console.log(result);
 
 
 let sum3 = (miramylove)  =>  {
+
+
+
+
+    vgvgbgvgvg
  return   (miramylove)
 }
 console.log(sum3);
 function printmyname(text){
     console.log(text);
+
+
+
+
+    asd= gfgr;
     
 }
 printmyname("midoooo")
